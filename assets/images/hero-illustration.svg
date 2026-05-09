@@ -1,0 +1,17 @@
+<svg width="680" height="460" viewBox="0 0 680 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="680" height="460" rx="28" fill="url(#bg)"/>
+<rect x="136" y="56" width="300" height="346" rx="18" fill="white"/>
+<rect x="136" y="56" width="300" height="46" rx="18" fill="#1F6FFF"/>
+<circle cx="166" cy="79" r="12" fill="#9FD1FF"/>
+<rect x="186" y="73" width="110" height="12" rx="6" fill="white"/>
+<rect x="162" y="130" width="180" height="30" rx="12" fill="#EDF4FF"/>
+<rect x="230" y="178" width="182" height="82" rx="12" fill="#EDF4FF"/>
+<rect x="162" y="278" width="182" height="64" rx="12" fill="#EDF4FF"/>
+<ellipse cx="520" cy="302" rx="88" ry="52" fill="#D8E9FF"/>
+<circle cx="518" cy="242" r="70" fill="#69B5FF"/>
+<ellipse cx="516" cy="258" rx="44" ry="34" fill="#F7FBFF"/>
+<circle cx="500" cy="244" r="5" fill="#1D2A40"/>
+<circle cx="532" cy="244" r="5" fill="#1D2A40"/>
+<polygon points="516,252 500,266 532,266" fill="#FFB54A"/>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="680" y2="460" gradientUnits="userSpaceOnUse"><stop stop-color="#EFF5FF"/><stop offset="1" stop-color="#F7FAFF"/></linearGradient></defs>
+</svg>
