@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2560" height="1100" viewBox="0 0 2560 1100" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="wash" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#eaf4ff"/>
+      <stop offset=".44" stop-color="#f7fbff"/>
+      <stop offset="1" stop-color="#eef6ff"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="65%" cy="38%" r="48%">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset=".55" stop-color="#f4f9ff"/>
+      <stop offset="1" stop-color="#e8f3ff"/>
+    </radialGradient>
+  </defs>
+  <rect width="2560" height="1100" fill="url(#wash)"/>
+  <rect width="2560" height="1100" fill="url(#glow)" opacity=".94"/>
+  <path d="M0 0 L2560 0 L2560 150 C2040 52 1640 74 1230 164 C780 264 380 252 0 140 Z" fill="#f8fcff" opacity=".84"/>
+  <path d="M0 1010 C440 1075 880 1078 1280 990 C1740 888 2150 900 2560 992 L2560 1100 L0 1100 Z" fill="#f7fbff" opacity=".76"/>
+  <g opacity=".16" fill="#bcd9ff">
+    <circle cx="1140" cy="250" r="3"/><circle cx="1190" cy="250" r="3"/><circle cx="1240" cy="250" r="3"/><circle cx="1290" cy="250" r="3"/>
+    <circle cx="1140" cy="302" r="3"/><circle cx="1190" cy="302" r="3"/><circle cx="1240" cy="302" r="3"/><circle cx="1290" cy="302" r="3"/>
+    <circle cx="2140" cy="710" r="3"/><circle cx="2190" cy="710" r="3"/><circle cx="2240" cy="710" r="3"/><circle cx="2290" cy="710" r="3"/>
+  </g>
+  <path d="M1880 186 L1895 224 L1933 239 L1895 254 L1880 292 L1865 254 L1827 239 L1865 224 Z" fill="#8cb7ff" opacity=".46"/>
+  <path d="M2308 374 L2322 408 L2356 422 L2322 436 L2308 470 L2294 436 L2260 422 L2294 408 Z" fill="#b2ceff" opacity=".72"/>
+</svg>
