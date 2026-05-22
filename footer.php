@@ -19,14 +19,14 @@
         <div>
           <h4>Legal</h4>
           <ul>
-            <li><a href="#">Privacy</a></li>
-            <li><a href="#">Terms of Service</a></li>
+            <li><a href="/privacy-policy/">Privacy Policy</a></li>
+            <li><a href="/terms-of-service/">Terms of Service</a></li>
           </ul>
         </div>
         <div>
           <h4>Contact</h4>
           <ul>
-            <li>support@superbudgie.com</li>
+            <li><a href="mailto:support@superbudgie.com">support@superbudgie.com</a></li>
             <li>Supported by SuperBudgie.</li>
           </ul>
         </div>
@@ -34,6 +34,7 @@
       <div class="copyright">© 2026 ChatBudgie. All rights reserved.</div>
     </div>
   </footer>
-<?php wp_footer(); ?>
-</body>
-</html>
+  <?php wp_footer(); ?>
+  </body>
+
+  </html>

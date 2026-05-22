@@ -8,7 +8,7 @@
           <h1>Add a Smart AI Chatbot to Your <span class="accent">WordPress</span> Site</h1>
           <p class="lead">ChatBudgie uses RAG technology to answer users based on your website content. Easy to use, private by design, and built for WordPress.</p>
           <div class="actions">
-            <a href="#pricing" class="btn btn-primary"><span class="btn-symbol"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/wordpress.svg" alt="WordPress logo"></span>Download Plugin</a>
+            <a href="https://github.com/SuperBudgie/chatbudgie-wp-plugin/releases/download/v1.0.2-beta/chatbudgie.zip" class="btn btn-primary"><span class="btn-symbol"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/wordpress.svg" alt="WordPress logo"></span>Download Plugin</a>
             <a href="https://github.com/SuperBudgie/chatbudgie-wp-plugin" target="_blank" rel="noreferrer" class="btn btn-secondary">
               <span class="btn-symbol">
                 <svg viewBox="0 0 24 24" aria-hidden="true">
@@ -123,7 +123,7 @@
         <h3>Ready to Add AI to Your Website?</h3>
         <p>Enhance support, engage visitors, and grow your business with ChatBudgie.</p>
       </div>
-      <a href="#" class="btn"><span class="btn-symbol"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/wordpress.svg" alt="WordPress logo"></span>Download Plugin</a>
+      <a href="https://github.com/SuperBudgie/chatbudgie-wp-plugin/releases/download/v1.0.2-beta/chatbudgie.zip" class="btn"><span class="btn-symbol"><img src="<?php echo get_template_directory_uri(); ?>/assets/images/wordpress.svg" alt="WordPress logo"></span>Download Plugin</a>
     </section>
   </main>
 
