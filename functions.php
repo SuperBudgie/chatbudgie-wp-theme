@@ -13,3 +13,36 @@ function chatbudgie_setup() {
 	);
 }
 add_action( 'after_setup_theme', 'chatbudgie_setup' );
+
+/**
+ * Register footer customization options.
+ *
+ * @param WP_Customize_Manager $wp_customize Theme customizer object.
+ */
+function chatbudgie_customize_register( $wp_customize ) {
+	$wp_customize->add_section(
+		'chatbudgie_footer',
+		array(
+			'title'    => 'Footer',
+			'priority' => 130,
+		)
+	);
+
+	$wp_customize->add_setting(
+		'chatbudgie_icp_beian',
+		array(
+			'default' => '',
+		)
+	);
+
+	$wp_customize->add_control(
+		'chatbudgie_icp_beian',
+		array(
+			'label'       => 'ICP Beian Info',
+			'description' => 'Displayed below the footer copyright.',
+			'section'     => 'chatbudgie_footer',
+			'type'        => 'text',
+		)
+	);
+}
+add_action( 'customize_register', 'chatbudgie_customize_register' );

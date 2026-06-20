@@ -36,6 +36,12 @@
         </div>
       </div>
       <div class="copyright"><?php esc_html_e( '© 2026 ChatBudgie. All rights reserved.', 'chatbudgie' ); ?></div>
+      <?php
+      $chatbudgie_icp_beian = get_theme_mod( 'chatbudgie_icp_beian', '' );
+      if ( $chatbudgie_icp_beian ) :
+      ?>
+        <div class="copyright"><?php echo $chatbudgie_icp_beian; ?></div>
+      <?php endif; ?>
     </div>
   </footer>
   <?php wp_footer(); ?>
