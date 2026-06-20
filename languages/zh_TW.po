@@ -1,0 +1,171 @@
+# Traditional Chinese translation for ChatBudgie.
+# Copyright (C) 2026 ChatBudgie
+# This file is distributed under the same license as the ChatBudgie package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ChatBudgie 1.0.0\n"
+"Report-Msgid-Bugs-To: support@superbudgie.com\n"
+"POT-Creation-Date: 2026-06-20 21:13+0800\n"
+"PO-Revision-Date: 2026-06-20 21:30+0800\n"
+"Last-Translator: ChatBudgie Team <support@superbudgie.com>\n"
+"Language-Team: Traditional Chinese <support@superbudgie.com>\n"
+"Language: zh_TW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Codex\n"
+
+#: front-page.php:7
+msgid "✦ AI Chatbot for WordPress"
+msgstr "✦ WordPress AI 聊天機器人"
+
+#: front-page.php:8
+#, php-format
+msgid "Add a Smart AI Chatbot to Your %s Site"
+msgstr "為你的 %s 網站加入智慧 AI 聊天機器人"
+
+#: front-page.php:11 front-page.php:126
+msgid "Download Plugin"
+msgstr "下載外掛"
+
+#: front-page.php:18
+msgid "View on GitHub"
+msgstr "在 GitHub 上查看"
+
+#: front-page.php:29 front-page.php:41 front-page.php:53
+msgid "Feature"
+msgstr "功能"
+
+#: front-page.php:30
+msgid "Smart Chat"
+msgstr "智慧聊天"
+
+#: front-page.php:31
+msgid "Answers from your content, not the internet."
+msgstr "答案來自你的網站內容，而不是整個網際網路。"
+
+#: front-page.php:42
+msgid "Easy to Setup"
+msgstr "輕鬆設定"
+
+#: front-page.php:43
+msgid "Get started in just a few minutes."
+msgstr "只需幾分鐘即可開始使用。"
+
+#: front-page.php:54
+msgid "Zero Maintenance"
+msgstr "零維護"
+
+#: front-page.php:55
+msgid "Set it up and let it work for you."
+msgstr "完成設定後，就讓它為你運作。"
+
+#: front-page.php:65
+msgid "Pricing"
+msgstr "價格"
+
+#: front-page.php:66
+msgid "Simple, Transparent Pricing"
+msgstr "簡單透明的價格"
+
+#: front-page.php:73
+msgid "5M Tokens"
+msgstr "500 萬 Token"
+
+#: front-page.php:74 front-page.php:89 front-page.php:105
+msgid "One-time purchase"
+msgstr "一次性購買"
+
+#: front-page.php:77
+msgid "For light usage"
+msgstr "適合輕量使用"
+
+#: front-page.php:79
+msgid "5 million tokens"
+msgstr "500 萬 Token"
+
+#: front-page.php:80 front-page.php:95 front-page.php:111
+msgid "One-time payment"
+msgstr "一次性付款"
+
+#: front-page.php:81 front-page.php:96 front-page.php:112
+msgid "No expiration"
+msgstr "永不過期"
+
+#: front-page.php:88
+msgid "20M Tokens"
+msgstr "2000 萬 Token"
+
+#: front-page.php:92
+msgid "For growing sites"
+msgstr "適合成長型網站"
+
+#: front-page.php:94
+msgid "20 million tokens"
+msgstr "2000 萬 Token"
+
+#: front-page.php:102
+msgid "★ Best Value"
+msgstr "★ 最超值"
+
+#: front-page.php:104
+msgid "100M Tokens"
+msgstr "1 億 Token"
+
+#: front-page.php:108
+msgid "Best value"
+msgstr "最超值"
+
+#: front-page.php:110
+msgid "100 million tokens"
+msgstr "1 億 Token"
+
+#: front-page.php:123
+msgid "Ready to Add AI to Your Website?"
+msgstr "準備好為你的網站加入 AI 了嗎？"
+
+#: footer.php:8
+msgid "Smart Chat - Real Connection."
+msgstr "智慧聊天，真實連結。"
+
+#: footer.php:11
+msgid "Navigation"
+msgstr "導覽"
+
+#: footer.php:24
+msgid "Legal"
+msgstr "法律"
+
+#: footer.php:26
+msgid "Privacy Policy"
+msgstr "隱私權政策"
+
+#: footer.php:27
+msgid "Terms of Service"
+msgstr "服務條款"
+
+#: footer.php:31
+msgid "Contact"
+msgstr "聯絡"
+
+#: footer.php:34
+msgid "Supported by SuperBudgie."
+msgstr "由 SuperBudgie 提供支援。"
+
+#: footer.php:38
+msgid "© 2026 ChatBudgie. All rights reserved."
+msgstr "© 2026 ChatBudgie。保留所有權利。"
+
+#: page.php:8
+msgid "Breadcrumb"
+msgstr "麵包屑導覽"
+
+#: page.php:9
+msgid "Home"
+msgstr "首頁"
+
+#: functions.php:11
+msgid "Primary Menu"
+msgstr "主選單"

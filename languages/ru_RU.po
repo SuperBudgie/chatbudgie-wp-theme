@@ -1,0 +1,171 @@
+# Russian translation for ChatBudgie.
+# Copyright (C) 2026 ChatBudgie
+# This file is distributed under the same license as the ChatBudgie package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ChatBudgie 1.0.0\n"
+"Report-Msgid-Bugs-To: support@superbudgie.com\n"
+"POT-Creation-Date: 2026-06-20 21:13+0800\n"
+"PO-Revision-Date: 2026-06-20 21:30+0800\n"
+"Last-Translator: ChatBudgie Team <support@superbudgie.com>\n"
+"Language-Team: Russian <support@superbudgie.com>\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+"X-Generator: Codex\n"
+
+#: front-page.php:7
+msgid "✦ AI Chatbot for WordPress"
+msgstr "✦ AI-чатбот для WordPress"
+
+#: front-page.php:8
+#, php-format
+msgid "Add a Smart AI Chatbot to Your %s Site"
+msgstr "Добавьте умного AI-чатбота на свой сайт %s"
+
+#: front-page.php:11 front-page.php:126
+msgid "Download Plugin"
+msgstr "Скачать плагин"
+
+#: front-page.php:18
+msgid "View on GitHub"
+msgstr "Посмотреть на GitHub"
+
+#: front-page.php:29 front-page.php:41 front-page.php:53
+msgid "Feature"
+msgstr "Возможность"
+
+#: front-page.php:30
+msgid "Smart Chat"
+msgstr "Умный чат"
+
+#: front-page.php:31
+msgid "Answers from your content, not the internet."
+msgstr "Ответы из вашего контента, а не из интернета."
+
+#: front-page.php:42
+msgid "Easy to Setup"
+msgstr "Простая настройка"
+
+#: front-page.php:43
+msgid "Get started in just a few minutes."
+msgstr "Начните всего за несколько минут."
+
+#: front-page.php:54
+msgid "Zero Maintenance"
+msgstr "Ноль обслуживания"
+
+#: front-page.php:55
+msgid "Set it up and let it work for you."
+msgstr "Настройте один раз и позвольте ему работать за вас."
+
+#: front-page.php:65
+msgid "Pricing"
+msgstr "Цены"
+
+#: front-page.php:66
+msgid "Simple, Transparent Pricing"
+msgstr "Простые и прозрачные цены"
+
+#: front-page.php:73
+msgid "5M Tokens"
+msgstr "5 млн токенов"
+
+#: front-page.php:74 front-page.php:89 front-page.php:105
+msgid "One-time purchase"
+msgstr "Разовая покупка"
+
+#: front-page.php:77
+msgid "For light usage"
+msgstr "Для легкого использования"
+
+#: front-page.php:79
+msgid "5 million tokens"
+msgstr "5 миллионов токенов"
+
+#: front-page.php:80 front-page.php:95 front-page.php:111
+msgid "One-time payment"
+msgstr "Разовый платеж"
+
+#: front-page.php:81 front-page.php:96 front-page.php:112
+msgid "No expiration"
+msgstr "Без срока действия"
+
+#: front-page.php:88
+msgid "20M Tokens"
+msgstr "20 млн токенов"
+
+#: front-page.php:92
+msgid "For growing sites"
+msgstr "Для растущих сайтов"
+
+#: front-page.php:94
+msgid "20 million tokens"
+msgstr "20 миллионов токенов"
+
+#: front-page.php:102
+msgid "★ Best Value"
+msgstr "★ Лучшая выгода"
+
+#: front-page.php:104
+msgid "100M Tokens"
+msgstr "100 млн токенов"
+
+#: front-page.php:108
+msgid "Best value"
+msgstr "Лучшая выгода"
+
+#: front-page.php:110
+msgid "100 million tokens"
+msgstr "100 миллионов токенов"
+
+#: front-page.php:123
+msgid "Ready to Add AI to Your Website?"
+msgstr "Готовы добавить AI на свой сайт?"
+
+#: footer.php:8
+msgid "Smart Chat - Real Connection."
+msgstr "Умный чат - настоящая связь."
+
+#: footer.php:11
+msgid "Navigation"
+msgstr "Навигация"
+
+#: footer.php:24
+msgid "Legal"
+msgstr "Правовая информация"
+
+#: footer.php:26
+msgid "Privacy Policy"
+msgstr "Политика конфиденциальности"
+
+#: footer.php:27
+msgid "Terms of Service"
+msgstr "Условия обслуживания"
+
+#: footer.php:31
+msgid "Contact"
+msgstr "Контакты"
+
+#: footer.php:34
+msgid "Supported by SuperBudgie."
+msgstr "Поддерживается SuperBudgie."
+
+#: footer.php:38
+msgid "© 2026 ChatBudgie. All rights reserved."
+msgstr "© 2026 ChatBudgie. Все права защищены."
+
+#: page.php:8
+msgid "Breadcrumb"
+msgstr "Навигационная цепочка"
+
+#: page.php:9
+msgid "Home"
+msgstr "Главная"
+
+#: functions.php:11
+msgid "Primary Menu"
+msgstr "Главное меню"

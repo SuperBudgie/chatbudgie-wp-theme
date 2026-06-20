@@ -5,8 +5,8 @@
     <article id="post-<?php the_ID(); ?>" <?php post_class('content-page'); ?>>
       <header class="content-page-hero">
         <div class="content-page-shell">
-          <nav class="page-breadcrumbs" aria-label="Breadcrumb">
-            <a href="<?php echo esc_url(home_url('/')); ?>">Home</a>
+          <nav class="page-breadcrumbs" aria-label="<?php esc_attr_e( 'Breadcrumb', 'chatbudgie' ); ?>">
+            <a href="<?php echo home_url('/'); ?>"><?php esc_html_e( 'Home', 'chatbudgie' ); ?></a>
             <span aria-hidden="true">/</span>
             <span aria-current="page"><?php the_title(); ?></span>
           </nav>

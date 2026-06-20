@@ -5,33 +5,37 @@
           <a class="logo footer-logo" href="/" style="margin-bottom: 14px; display:inline-flex;">
             <img src="<?php echo get_template_directory_uri(); ?>/assets/images/logo-full.png" alt="ChatBudgie" />
           </a>
-          <p>Smart Chat - Real Connection.</p>
+          <p><?php esc_html_e( 'Smart Chat - Real Connection.', 'chatbudgie' ); ?></p>
         </div>
         <div>
-          <h4>Navigation</h4>
+          <h4><?php esc_html_e( 'Navigation', 'chatbudgie' ); ?></h4>
+          <?php
+          wp_nav_menu(
+            array(
+              'theme_location' => 'primary',
+              'container'      => false,
+              'menu_class'     => 'footer-menu',
+              'fallback_cb'    => false,
+            )
+          );
+          ?>
+        </div>
+        <div>
+          <h4><?php esc_html_e( 'Legal', 'chatbudgie' ); ?></h4>
           <ul>
-            <li><a href="/#features">Features</a></li>
-            <li><a href="/#how-it-works">How It Works</a></li>
-            <li><a href="/#pricing">Pricing</a></li>
-            <li><a href="https://github.com/SuperBudgie/chatbudgie-wp-plugin">GitHub</a></li>
+            <li><a href="/privacy-policy/"><?php esc_html_e( 'Privacy Policy', 'chatbudgie' ); ?></a></li>
+            <li><a href="/terms-of-service/"><?php esc_html_e( 'Terms of Service', 'chatbudgie' ); ?></a></li>
           </ul>
         </div>
         <div>
-          <h4>Legal</h4>
-          <ul>
-            <li><a href="/privacy-policy/">Privacy Policy</a></li>
-            <li><a href="/terms-of-service/">Terms of Service</a></li>
-          </ul>
-        </div>
-        <div>
-          <h4>Contact</h4>
+          <h4><?php esc_html_e( 'Contact', 'chatbudgie' ); ?></h4>
           <ul>
             <li><a href="mailto:support@superbudgie.com">support@superbudgie.com</a></li>
-            <li>Supported by SuperBudgie.</li>
+            <li><?php esc_html_e( 'Supported by SuperBudgie.', 'chatbudgie' ); ?></li>
           </ul>
         </div>
       </div>
-      <div class="copyright">© 2026 ChatBudgie. All rights reserved.</div>
+      <div class="copyright"><?php esc_html_e( '© 2026 ChatBudgie. All rights reserved.', 'chatbudgie' ); ?></div>
     </div>
   </footer>
   <?php wp_footer(); ?>

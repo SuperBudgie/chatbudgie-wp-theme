@@ -3,6 +3,8 @@ Theme Name: ChatBudgie
 Author: ChatBudgie Team
 Description: AI Chatbot for WordPress
 Version: 1.0.0
+Text Domain: chatbudgie
+Domain Path: /languages
 */
 
 :root {

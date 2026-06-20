@@ -1,0 +1,205 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the ChatBudgie package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ChatBudgie 1.0.0\n"
+"Report-Msgid-Bugs-To: support@superbudgie.com\n"
+"POT-Creation-Date: 2026-06-20 21:13+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: front-page.php:7
+msgid "✦ AI Chatbot for WordPress"
+msgstr ""
+
+#: front-page.php:8
+#, php-format
+msgid "Add a Smart AI Chatbot to Your %s Site"
+msgstr ""
+
+#: front-page.php:9
+msgid ""
+"ChatBudgie uses RAG technology to answer users based on your website "
+"content. Easy to use, private by design, and built for WordPress."
+msgstr ""
+
+#: front-page.php:11 front-page.php:126
+msgid "Download Plugin"
+msgstr ""
+
+#: front-page.php:18
+msgid "View on GitHub"
+msgstr ""
+
+#: front-page.php:29 front-page.php:41 front-page.php:53
+msgid "Feature"
+msgstr ""
+
+#: front-page.php:30
+msgid "Smart Chat"
+msgstr ""
+
+#: front-page.php:31
+msgid "Answers from your content, not the internet."
+msgstr ""
+
+#: front-page.php:32
+msgid ""
+"ChatBudgie understands your website content using RAG technology and gives "
+"accurate, context-aware answers to your visitors."
+msgstr ""
+
+#: front-page.php:42
+msgid "Easy to Setup"
+msgstr ""
+
+#: front-page.php:43
+msgid "Get started in just a few minutes."
+msgstr ""
+
+#: front-page.php:44
+msgid ""
+"Don't need to set up various API keys. ChatBudgie will manage it for you."
+msgstr ""
+
+#: front-page.php:54
+msgid "Zero Maintenance"
+msgstr ""
+
+#: front-page.php:55
+msgid "Set it up and let it work for you."
+msgstr ""
+
+#: front-page.php:56
+msgid ""
+"ChatBudgie automatically keeps your knowledge base up to date. No manual "
+"work, no server management, no headaches."
+msgstr ""
+
+#: front-page.php:65
+msgid "Pricing"
+msgstr ""
+
+#: front-page.php:66
+msgid "Simple, Transparent Pricing"
+msgstr ""
+
+#: front-page.php:67
+msgid ""
+"Choose the token package that fits your needs. One-time purchase, no monthly "
+"fees."
+msgstr ""
+
+#: front-page.php:73
+msgid "5M Tokens"
+msgstr ""
+
+#: front-page.php:74 front-page.php:89 front-page.php:105
+msgid "One-time purchase"
+msgstr ""
+
+#: front-page.php:77
+msgid "For light usage"
+msgstr ""
+
+#: front-page.php:79
+msgid "5 million tokens"
+msgstr ""
+
+#: front-page.php:80 front-page.php:95 front-page.php:111
+msgid "One-time payment"
+msgstr ""
+
+#: front-page.php:81 front-page.php:96 front-page.php:112
+msgid "No expiration"
+msgstr ""
+
+#: front-page.php:88
+msgid "20M Tokens"
+msgstr ""
+
+#: front-page.php:92
+msgid "For growing sites"
+msgstr ""
+
+#: front-page.php:94
+msgid "20 million tokens"
+msgstr ""
+
+#: front-page.php:102
+msgid "★ Best Value"
+msgstr ""
+
+#: front-page.php:104
+msgid "100M Tokens"
+msgstr ""
+
+#: front-page.php:108
+msgid "Best value"
+msgstr ""
+
+#: front-page.php:110
+msgid "100 million tokens"
+msgstr ""
+
+#: front-page.php:123
+msgid "Ready to Add AI to Your Website?"
+msgstr ""
+
+#: front-page.php:124
+msgid ""
+"Enhance support, engage visitors, and grow your business with ChatBudgie."
+msgstr ""
+
+#: footer.php:8
+msgid "Smart Chat - Real Connection."
+msgstr ""
+
+#: footer.php:11
+msgid "Navigation"
+msgstr ""
+
+#: footer.php:24
+msgid "Legal"
+msgstr ""
+
+#: footer.php:26
+msgid "Privacy Policy"
+msgstr ""
+
+#: footer.php:27
+msgid "Terms of Service"
+msgstr ""
+
+#: footer.php:31
+msgid "Contact"
+msgstr ""
+
+#: footer.php:34
+msgid "Supported by SuperBudgie."
+msgstr ""
+
+#: footer.php:38
+msgid "© 2026 ChatBudgie. All rights reserved."
+msgstr ""
+
+#: page.php:8
+msgid "Breadcrumb"
+msgstr ""
+
+#: page.php:9
+msgid "Home"
+msgstr ""
+
+#: functions.php:11
+msgid "Primary Menu"
+msgstr ""

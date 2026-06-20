@@ -1,0 +1,171 @@
+# Dutch translation for ChatBudgie.
+# Copyright (C) 2026 ChatBudgie
+# This file is distributed under the same license as the ChatBudgie package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ChatBudgie 1.0.0\n"
+"Report-Msgid-Bugs-To: support@superbudgie.com\n"
+"POT-Creation-Date: 2026-06-20 21:13+0800\n"
+"PO-Revision-Date: 2026-06-20 21:30+0800\n"
+"Last-Translator: ChatBudgie Team <support@superbudgie.com>\n"
+"Language-Team: Dutch <support@superbudgie.com>\n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Codex\n"
+
+#: front-page.php:7
+msgid "✦ AI Chatbot for WordPress"
+msgstr "✦ AI-chatbot voor WordPress"
+
+#: front-page.php:8
+#, php-format
+msgid "Add a Smart AI Chatbot to Your %s Site"
+msgstr "Voeg een slimme AI-chatbot toe aan je %s-site"
+
+#: front-page.php:11 front-page.php:126
+msgid "Download Plugin"
+msgstr "Plugin downloaden"
+
+#: front-page.php:18
+msgid "View on GitHub"
+msgstr "Bekijken op GitHub"
+
+#: front-page.php:29 front-page.php:41 front-page.php:53
+msgid "Feature"
+msgstr "Functie"
+
+#: front-page.php:30
+msgid "Smart Chat"
+msgstr "Slimme chat"
+
+#: front-page.php:31
+msgid "Answers from your content, not the internet."
+msgstr "Antwoorden uit je eigen content, niet van internet."
+
+#: front-page.php:42
+msgid "Easy to Setup"
+msgstr "Eenvoudig in te stellen"
+
+#: front-page.php:43
+msgid "Get started in just a few minutes."
+msgstr "Ga binnen een paar minuten aan de slag."
+
+#: front-page.php:54
+msgid "Zero Maintenance"
+msgstr "Geen onderhoud"
+
+#: front-page.php:55
+msgid "Set it up and let it work for you."
+msgstr "Stel het in en laat het voor je werken."
+
+#: front-page.php:65
+msgid "Pricing"
+msgstr "Prijzen"
+
+#: front-page.php:66
+msgid "Simple, Transparent Pricing"
+msgstr "Eenvoudige, transparante prijzen"
+
+#: front-page.php:73
+msgid "5M Tokens"
+msgstr "5 mln tokens"
+
+#: front-page.php:74 front-page.php:89 front-page.php:105
+msgid "One-time purchase"
+msgstr "Eenmalige aankoop"
+
+#: front-page.php:77
+msgid "For light usage"
+msgstr "Voor licht gebruik"
+
+#: front-page.php:79
+msgid "5 million tokens"
+msgstr "5 miljoen tokens"
+
+#: front-page.php:80 front-page.php:95 front-page.php:111
+msgid "One-time payment"
+msgstr "Eenmalige betaling"
+
+#: front-page.php:81 front-page.php:96 front-page.php:112
+msgid "No expiration"
+msgstr "Geen vervaldatum"
+
+#: front-page.php:88
+msgid "20M Tokens"
+msgstr "20 mln tokens"
+
+#: front-page.php:92
+msgid "For growing sites"
+msgstr "Voor groeiende sites"
+
+#: front-page.php:94
+msgid "20 million tokens"
+msgstr "20 miljoen tokens"
+
+#: front-page.php:102
+msgid "★ Best Value"
+msgstr "★ Beste waarde"
+
+#: front-page.php:104
+msgid "100M Tokens"
+msgstr "100 mln tokens"
+
+#: front-page.php:108
+msgid "Best value"
+msgstr "Beste waarde"
+
+#: front-page.php:110
+msgid "100 million tokens"
+msgstr "100 miljoen tokens"
+
+#: front-page.php:123
+msgid "Ready to Add AI to Your Website?"
+msgstr "Klaar om AI aan je website toe te voegen?"
+
+#: footer.php:8
+msgid "Smart Chat - Real Connection."
+msgstr "Slimme chat - echte verbinding."
+
+#: footer.php:11
+msgid "Navigation"
+msgstr "Navigatie"
+
+#: footer.php:24
+msgid "Legal"
+msgstr "Juridisch"
+
+#: footer.php:26
+msgid "Privacy Policy"
+msgstr "Privacybeleid"
+
+#: footer.php:27
+msgid "Terms of Service"
+msgstr "Servicevoorwaarden"
+
+#: footer.php:31
+msgid "Contact"
+msgstr "Contact"
+
+#: footer.php:34
+msgid "Supported by SuperBudgie."
+msgstr "Ondersteund door SuperBudgie."
+
+#: footer.php:38
+msgid "© 2026 ChatBudgie. All rights reserved."
+msgstr "© 2026 ChatBudgie. Alle rechten voorbehouden."
+
+#: page.php:8
+msgid "Breadcrumb"
+msgstr "Kruimelpad"
+
+#: page.php:9
+msgid "Home"
+msgstr "Home"
+
+#: functions.php:11
+msgid "Primary Menu"
+msgstr "Hoofdmenu"
