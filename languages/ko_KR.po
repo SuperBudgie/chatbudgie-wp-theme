@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ChatBudgie 1.0.0\n"
-"Report-Msgid-Bugs-To: support@superbudgie.com\n"
-"POT-Creation-Date: 2026-06-20 21:13+0800\n"
-"PO-Revision-Date: 2026-06-20 21:30+0800\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/chatbudgie\n"
+"POT-Creation-Date: 2026-06-20T14:38:46+00:00\n"
+"PO-Revision-Date: 2026-06-20 21:45+0800\n"
 "Last-Translator: ChatBudgie Team <support@superbudgie.com>\n"
 "Language-Team: Korean <support@superbudgie.com>\n"
 "Language: ko_KR\n"
@@ -17,6 +17,53 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Codex\n"
 
+#. Theme Name of the theme
+#: style.css
+msgid "ChatBudgie"
+msgstr "ChatBudgie"
+
+#. Description of the theme
+#: style.css
+msgid "AI Chatbot for WordPress"
+msgstr "WordPress용 AI 챗봇"
+
+#. Author of the theme
+#: style.css
+msgid "ChatBudgie Team"
+msgstr "ChatBudgie Team"
+
+#: footer.php:8
+msgid "Smart Chat - Real Connection."
+msgstr "스마트 채팅 - 진짜 연결."
+
+#: footer.php:11
+msgid "Navigation"
+msgstr "탐색"
+
+#: footer.php:24
+msgid "Legal"
+msgstr "법적 고지"
+
+#: footer.php:26
+msgid "Privacy Policy"
+msgstr "개인정보 처리방침"
+
+#: footer.php:27
+msgid "Terms of Service"
+msgstr "서비스 약관"
+
+#: footer.php:31
+msgid "Contact"
+msgstr "문의"
+
+#: footer.php:34
+msgid "Supported by SuperBudgie."
+msgstr "SuperBudgie에서 지원합니다."
+
+#: footer.php:38
+msgid "© 2026 ChatBudgie. All rights reserved."
+msgstr "© 2026 ChatBudgie. 모든 권리 보유."
+
 #: front-page.php:7
 msgid "✦ AI Chatbot for WordPress"
 msgstr "✦ WordPress용 AI 챗봇"
@@ -25,6 +72,15 @@ msgstr "✦ WordPress용 AI 챗봇"
 #, php-format
 msgid "Add a Smart AI Chatbot to Your %s Site"
 msgstr "%s 사이트에 스마트 AI 챗봇 추가"
+
+#: front-page.php:9
+msgid ""
+"ChatBudgie uses RAG technology to answer users based on your website "
+"content. Easy to use, private by design, and built for WordPress."
+msgstr ""
+"ChatBudgie는 RAG 기술을 사용해 웹사이트 콘텐츠를 기반으로 사용자에게 답변합니"
+"다. 사용하기 쉽고, 개인정보 보호를 고려해 설계되었으며, WordPress에 맞게 제작"
+"되었습니다."
 
 #: front-page.php:11 front-page.php:126
 msgid "Download Plugin"
@@ -46,6 +102,14 @@ msgstr "스마트 채팅"
 msgid "Answers from your content, not the internet."
 msgstr "인터넷이 아닌 내 콘텐츠에서 답변합니다."
 
+#: front-page.php:32
+msgid ""
+"ChatBudgie understands your website content using RAG technology and gives "
+"accurate, context-aware answers to your visitors."
+msgstr ""
+"ChatBudgie는 RAG 기술로 웹사이트 콘텐츠를 이해하고 방문자에게 정확하고 맥락"
+"에 맞는 답변을 제공합니다."
+
 #: front-page.php:42
 msgid "Easy to Setup"
 msgstr "간편한 설정"
@@ -53,6 +117,11 @@ msgstr "간편한 설정"
 #: front-page.php:43
 msgid "Get started in just a few minutes."
 msgstr "몇 분 만에 시작할 수 있습니다."
+
+#: front-page.php:44
+msgid ""
+"Don't need to set up various API keys. ChatBudgie will manage it for you."
+msgstr "여러 API 키를 설정할 필요가 없습니다. ChatBudgie가 대신 관리합니다."
 
 #: front-page.php:54
 msgid "Zero Maintenance"
@@ -62,6 +131,14 @@ msgstr "유지보수 없음"
 msgid "Set it up and let it work for you."
 msgstr "설정해 두면 알아서 작동합니다."
 
+#: front-page.php:56
+msgid ""
+"ChatBudgie automatically keeps your knowledge base up to date. No manual "
+"work, no server management, no headaches."
+msgstr ""
+"ChatBudgie는 지식 베이스를 자동으로 최신 상태로 유지합니다. 수동 작업도, 서"
+"버 관리도, 번거로움도 없습니다."
+
 #: front-page.php:65
 msgid "Pricing"
 msgstr "가격"
@@ -69,6 +146,13 @@ msgstr "가격"
 #: front-page.php:66
 msgid "Simple, Transparent Pricing"
 msgstr "간단하고 투명한 가격"
+
+#: front-page.php:67
+msgid ""
+"Choose the token package that fits your needs. One-time purchase, no monthly "
+"fees."
+msgstr ""
+"필요에 맞는 토큰 패키지를 선택하세요. 일회성 구매이며 월 이용료는 없습니다."
 
 #: front-page.php:73
 msgid "5M Tokens"
@@ -126,37 +210,15 @@ msgstr "1억 토큰"
 msgid "Ready to Add AI to Your Website?"
 msgstr "웹사이트에 AI를 추가할 준비가 되셨나요?"
 
-#: footer.php:8
-msgid "Smart Chat - Real Connection."
-msgstr "스마트 채팅 - 진짜 연결."
+#: front-page.php:124
+msgid ""
+"Enhance support, engage visitors, and grow your business with ChatBudgie."
+msgstr ""
+"ChatBudgie로 지원을 강화하고 방문자 참여를 높이며 비즈니스를 성장시키세요."
 
-#: footer.php:11
-msgid "Navigation"
-msgstr "탐색"
-
-#: footer.php:24
-msgid "Legal"
-msgstr "법적 고지"
-
-#: footer.php:26
-msgid "Privacy Policy"
-msgstr "개인정보 처리방침"
-
-#: footer.php:27
-msgid "Terms of Service"
-msgstr "서비스 약관"
-
-#: footer.php:31
-msgid "Contact"
-msgstr "문의"
-
-#: footer.php:34
-msgid "Supported by SuperBudgie."
-msgstr "SuperBudgie에서 지원합니다."
-
-#: footer.php:38
-msgid "© 2026 ChatBudgie. All rights reserved."
-msgstr "© 2026 ChatBudgie. 모든 권리 보유."
+#: functions.php:11
+msgid "Primary Menu"
+msgstr "기본 메뉴"
 
 #: page.php:8
 msgid "Breadcrumb"
@@ -165,7 +227,3 @@ msgstr "이동 경로"
 #: page.php:9
 msgid "Home"
 msgstr "홈"
-
-#: functions.php:11
-msgid "Primary Menu"
-msgstr "기본 메뉴"

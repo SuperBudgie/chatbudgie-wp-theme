@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ChatBudgie 1.0.0\n"
-"Report-Msgid-Bugs-To: support@superbudgie.com\n"
-"POT-Creation-Date: 2026-06-20 21:13+0800\n"
-"PO-Revision-Date: 2026-06-20 21:30+0800\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/chatbudgie\n"
+"POT-Creation-Date: 2026-06-20T14:38:46+00:00\n"
+"PO-Revision-Date: 2026-06-20 21:45+0800\n"
 "Last-Translator: ChatBudgie Team <support@superbudgie.com>\n"
 "Language-Team: Italian <support@superbudgie.com>\n"
 "Language: it_IT\n"
@@ -17,6 +17,53 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n != 1);\n"
 "X-Generator: Codex\n"
 
+#. Theme Name of the theme
+#: style.css
+msgid "ChatBudgie"
+msgstr "ChatBudgie"
+
+#. Description of the theme
+#: style.css
+msgid "AI Chatbot for WordPress"
+msgstr "Chatbot IA per WordPress"
+
+#. Author of the theme
+#: style.css
+msgid "ChatBudgie Team"
+msgstr "ChatBudgie Team"
+
+#: footer.php:8
+msgid "Smart Chat - Real Connection."
+msgstr "Chat intelligente - connessione reale."
+
+#: footer.php:11
+msgid "Navigation"
+msgstr "Navigazione"
+
+#: footer.php:24
+msgid "Legal"
+msgstr "Note legali"
+
+#: footer.php:26
+msgid "Privacy Policy"
+msgstr "Informativa sulla privacy"
+
+#: footer.php:27
+msgid "Terms of Service"
+msgstr "Termini di servizio"
+
+#: footer.php:31
+msgid "Contact"
+msgstr "Contatto"
+
+#: footer.php:34
+msgid "Supported by SuperBudgie."
+msgstr "Supportato da SuperBudgie."
+
+#: footer.php:38
+msgid "© 2026 ChatBudgie. All rights reserved."
+msgstr "© 2026 ChatBudgie. Tutti i diritti riservati."
+
 #: front-page.php:7
 msgid "✦ AI Chatbot for WordPress"
 msgstr "✦ Chatbot IA per WordPress"
@@ -25,6 +72,15 @@ msgstr "✦ Chatbot IA per WordPress"
 #, php-format
 msgid "Add a Smart AI Chatbot to Your %s Site"
 msgstr "Aggiungi un chatbot IA intelligente al tuo sito %s"
+
+#: front-page.php:9
+msgid ""
+"ChatBudgie uses RAG technology to answer users based on your website "
+"content. Easy to use, private by design, and built for WordPress."
+msgstr ""
+"ChatBudgie usa la tecnologia RAG per rispondere agli utenti in base ai "
+"contenuti del tuo sito. Facile da usare, privato per progettazione e creato "
+"per WordPress."
 
 #: front-page.php:11 front-page.php:126
 msgid "Download Plugin"
@@ -46,6 +102,14 @@ msgstr "Chat intelligente"
 msgid "Answers from your content, not the internet."
 msgstr "Risposte dai tuoi contenuti, non da internet."
 
+#: front-page.php:32
+msgid ""
+"ChatBudgie understands your website content using RAG technology and gives "
+"accurate, context-aware answers to your visitors."
+msgstr ""
+"ChatBudgie comprende i contenuti del tuo sito con la tecnologia RAG e offre "
+"ai visitatori risposte accurate e contestuali."
+
 #: front-page.php:42
 msgid "Easy to Setup"
 msgstr "Facile da configurare"
@@ -53,6 +117,11 @@ msgstr "Facile da configurare"
 #: front-page.php:43
 msgid "Get started in just a few minutes."
 msgstr "Inizia in pochi minuti."
+
+#: front-page.php:44
+msgid ""
+"Don't need to set up various API keys. ChatBudgie will manage it for you."
+msgstr "Non devi configurare varie chiavi API. ChatBudgie le gestirà per te."
 
 #: front-page.php:54
 msgid "Zero Maintenance"
@@ -62,6 +131,14 @@ msgstr "Zero manutenzione"
 msgid "Set it up and let it work for you."
 msgstr "Configuralo e lascia che lavori per te."
 
+#: front-page.php:56
+msgid ""
+"ChatBudgie automatically keeps your knowledge base up to date. No manual "
+"work, no server management, no headaches."
+msgstr ""
+"ChatBudgie mantiene automaticamente aggiornata la tua base di conoscenza. "
+"Niente lavoro manuale, niente gestione server, niente pensieri."
+
 #: front-page.php:65
 msgid "Pricing"
 msgstr "Prezzi"
@@ -69,6 +146,14 @@ msgstr "Prezzi"
 #: front-page.php:66
 msgid "Simple, Transparent Pricing"
 msgstr "Prezzi semplici e trasparenti"
+
+#: front-page.php:67
+msgid ""
+"Choose the token package that fits your needs. One-time purchase, no monthly "
+"fees."
+msgstr ""
+"Scegli il pacchetto di token più adatto alle tue esigenze. Acquisto una "
+"tantum, senza costi mensili."
 
 #: front-page.php:73
 msgid "5M Tokens"
@@ -126,37 +211,16 @@ msgstr "100 milioni di token"
 msgid "Ready to Add AI to Your Website?"
 msgstr "Pronto ad aggiungere l’IA al tuo sito?"
 
-#: footer.php:8
-msgid "Smart Chat - Real Connection."
-msgstr "Chat intelligente - connessione reale."
+#: front-page.php:124
+msgid ""
+"Enhance support, engage visitors, and grow your business with ChatBudgie."
+msgstr ""
+"Migliora il supporto, coinvolgi i visitatori e fai crescere la tua attività "
+"con ChatBudgie."
 
-#: footer.php:11
-msgid "Navigation"
-msgstr "Navigazione"
-
-#: footer.php:24
-msgid "Legal"
-msgstr "Note legali"
-
-#: footer.php:26
-msgid "Privacy Policy"
-msgstr "Informativa sulla privacy"
-
-#: footer.php:27
-msgid "Terms of Service"
-msgstr "Termini di servizio"
-
-#: footer.php:31
-msgid "Contact"
-msgstr "Contatto"
-
-#: footer.php:34
-msgid "Supported by SuperBudgie."
-msgstr "Supportato da SuperBudgie."
-
-#: footer.php:38
-msgid "© 2026 ChatBudgie. All rights reserved."
-msgstr "© 2026 ChatBudgie. Tutti i diritti riservati."
+#: functions.php:11
+msgid "Primary Menu"
+msgstr "Menu principale"
 
 #: page.php:8
 msgid "Breadcrumb"
@@ -165,7 +229,3 @@ msgstr "Breadcrumb"
 #: page.php:9
 msgid "Home"
 msgstr "Home"
-
-#: functions.php:11
-msgid "Primary Menu"
-msgstr "Menu principale"

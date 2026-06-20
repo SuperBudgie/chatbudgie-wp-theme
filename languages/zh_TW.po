@@ -5,9 +5,9 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: ChatBudgie 1.0.0\n"
-"Report-Msgid-Bugs-To: support@superbudgie.com\n"
-"POT-Creation-Date: 2026-06-20 21:13+0800\n"
-"PO-Revision-Date: 2026-06-20 21:30+0800\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/chatbudgie\n"
+"POT-Creation-Date: 2026-06-20T14:38:46+00:00\n"
+"PO-Revision-Date: 2026-06-20 21:45+0800\n"
 "Last-Translator: ChatBudgie Team <support@superbudgie.com>\n"
 "Language-Team: Traditional Chinese <support@superbudgie.com>\n"
 "Language: zh_TW\n"
@@ -17,6 +17,53 @@ msgstr ""
 "Plural-Forms: nplurals=1; plural=0;\n"
 "X-Generator: Codex\n"
 
+#. Theme Name of the theme
+#: style.css
+msgid "ChatBudgie"
+msgstr "ChatBudgie"
+
+#. Description of the theme
+#: style.css
+msgid "AI Chatbot for WordPress"
+msgstr "WordPress AI 聊天機器人"
+
+#. Author of the theme
+#: style.css
+msgid "ChatBudgie Team"
+msgstr "ChatBudgie Team"
+
+#: footer.php:8
+msgid "Smart Chat - Real Connection."
+msgstr "智慧聊天，真實連結。"
+
+#: footer.php:11
+msgid "Navigation"
+msgstr "導覽"
+
+#: footer.php:24
+msgid "Legal"
+msgstr "法律"
+
+#: footer.php:26
+msgid "Privacy Policy"
+msgstr "隱私權政策"
+
+#: footer.php:27
+msgid "Terms of Service"
+msgstr "服務條款"
+
+#: footer.php:31
+msgid "Contact"
+msgstr "聯絡"
+
+#: footer.php:34
+msgid "Supported by SuperBudgie."
+msgstr "由 SuperBudgie 提供支援。"
+
+#: footer.php:38
+msgid "© 2026 ChatBudgie. All rights reserved."
+msgstr "© 2026 ChatBudgie。保留所有權利。"
+
 #: front-page.php:7
 msgid "✦ AI Chatbot for WordPress"
 msgstr "✦ WordPress AI 聊天機器人"
@@ -25,6 +72,14 @@ msgstr "✦ WordPress AI 聊天機器人"
 #, php-format
 msgid "Add a Smart AI Chatbot to Your %s Site"
 msgstr "為你的 %s 網站加入智慧 AI 聊天機器人"
+
+#: front-page.php:9
+msgid ""
+"ChatBudgie uses RAG technology to answer users based on your website "
+"content. Easy to use, private by design, and built for WordPress."
+msgstr ""
+"ChatBudgie 使用 RAG 技術，根據你的網站內容回答使用者問題。簡單易用、隱私優"
+"先，並專為 WordPress 打造。"
 
 #: front-page.php:11 front-page.php:126
 msgid "Download Plugin"
@@ -46,6 +101,13 @@ msgstr "智慧聊天"
 msgid "Answers from your content, not the internet."
 msgstr "答案來自你的網站內容，而不是整個網際網路。"
 
+#: front-page.php:32
+msgid ""
+"ChatBudgie understands your website content using RAG technology and gives "
+"accurate, context-aware answers to your visitors."
+msgstr ""
+"ChatBudgie 使用 RAG 技術理解你的網站內容，為訪客提供精準且結合情境的回答。"
+
 #: front-page.php:42
 msgid "Easy to Setup"
 msgstr "輕鬆設定"
@@ -53,6 +115,11 @@ msgstr "輕鬆設定"
 #: front-page.php:43
 msgid "Get started in just a few minutes."
 msgstr "只需幾分鐘即可開始使用。"
+
+#: front-page.php:44
+msgid ""
+"Don't need to set up various API keys. ChatBudgie will manage it for you."
+msgstr "不需要設定各種 API 金鑰。ChatBudgie 會替你管理。"
 
 #: front-page.php:54
 msgid "Zero Maintenance"
@@ -62,6 +129,14 @@ msgstr "零維護"
 msgid "Set it up and let it work for you."
 msgstr "完成設定後，就讓它為你運作。"
 
+#: front-page.php:56
+msgid ""
+"ChatBudgie automatically keeps your knowledge base up to date. No manual "
+"work, no server management, no headaches."
+msgstr ""
+"ChatBudgie 會自動讓你的知識庫保持最新。無需手動作業、無需管理伺服器，也不會帶"
+"來麻煩。"
+
 #: front-page.php:65
 msgid "Pricing"
 msgstr "價格"
@@ -69,6 +144,12 @@ msgstr "價格"
 #: front-page.php:66
 msgid "Simple, Transparent Pricing"
 msgstr "簡單透明的價格"
+
+#: front-page.php:67
+msgid ""
+"Choose the token package that fits your needs. One-time purchase, no monthly "
+"fees."
+msgstr "選擇符合你需求的 Token 套餐。一次性購買，沒有月費。"
 
 #: front-page.php:73
 msgid "5M Tokens"
@@ -126,37 +207,14 @@ msgstr "1 億 Token"
 msgid "Ready to Add AI to Your Website?"
 msgstr "準備好為你的網站加入 AI 了嗎？"
 
-#: footer.php:8
-msgid "Smart Chat - Real Connection."
-msgstr "智慧聊天，真實連結。"
+#: front-page.php:124
+msgid ""
+"Enhance support, engage visitors, and grow your business with ChatBudgie."
+msgstr "使用 ChatBudgie 提升支援體驗、吸引訪客並推動業務成長。"
 
-#: footer.php:11
-msgid "Navigation"
-msgstr "導覽"
-
-#: footer.php:24
-msgid "Legal"
-msgstr "法律"
-
-#: footer.php:26
-msgid "Privacy Policy"
-msgstr "隱私權政策"
-
-#: footer.php:27
-msgid "Terms of Service"
-msgstr "服務條款"
-
-#: footer.php:31
-msgid "Contact"
-msgstr "聯絡"
-
-#: footer.php:34
-msgid "Supported by SuperBudgie."
-msgstr "由 SuperBudgie 提供支援。"
-
-#: footer.php:38
-msgid "© 2026 ChatBudgie. All rights reserved."
-msgstr "© 2026 ChatBudgie。保留所有權利。"
+#: functions.php:11
+msgid "Primary Menu"
+msgstr "主選單"
 
 #: page.php:8
 msgid "Breadcrumb"
@@ -165,7 +223,3 @@ msgstr "麵包屑導覽"
 #: page.php:9
 msgid "Home"
 msgstr "首頁"
-
-#: functions.php:11
-msgid "Primary Menu"
-msgstr "主選單"
